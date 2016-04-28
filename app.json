@@ -1,0 +1,8 @@
+{
+  "name": "Python Bot on Heroku",
+  "description": "A simple bot in the style of wat-bot.",
+  "image": "heroku/python",
+  "repository": "https://github.com/bildzeitung/pywat-fbbot",
+  "keywords": ["python", "facebook" ],
+  "addons": []
+}
